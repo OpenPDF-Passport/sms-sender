@@ -4,7 +4,7 @@ import random
 from datetime import datetime
 
 # SMS matni (bitta qatorda)
-MESSAGE_BASE = "+25 000 soʻm hisobingizda! Ulansangiz — bonus sizniki. Atigi 2% komissiya! Yandex haydovchilarini taklif qilamiz. Pulni Telegram boti orqali 100% yeching. Har qanday avtomobilni Yandex’ga ulaymiz. Batafsil: @RAYYONAA2023, +998978650526"
+MESSAGE_BASE = "+25 000 soʻm hisobingizda! Ulansangiz — bonus sizniki. Atigi 2% komissiya! Yandex haydovchilarini taklif qilamiz. Pulni Telegram boti orqali 100% yeching. Har qanday avtomobilni Yandex’ga ulaymiz. Batafsil:Telegram:- @RAYYONAA2023, +998978650526"
 
 CHUNK_SIZE = 58  # har 58 belgidan keyin (1–9) raqam qo‘shiladi
 DELAY = 5        # SMSlar orasidagi kutish (soniya)
@@ -74,3 +74,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
